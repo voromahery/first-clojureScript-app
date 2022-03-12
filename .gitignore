@@ -1,7 +1,5 @@
 node_modules/
 public/js
-.clj-kondo
-.shadow-cljs
 
 /target
 /checkouts
@@ -17,6 +15,9 @@ pom.xml.asc
 .lein-*
 .nrepl-*
 .DS_Store
+.clj-kondo
+.shadow-cljs
+.lsp
 
 .hgignore
 .hg/
