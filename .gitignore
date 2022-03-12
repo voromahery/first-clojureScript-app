@@ -19,5 +19,7 @@ pom.xml.asc
 .shadow-cljs
 .lsp
 
+/.cache
+
 .hgignore
 .hg/
